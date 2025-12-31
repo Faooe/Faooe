@@ -13,7 +13,7 @@
 
 <p align="center">
   📍 Banjarmasin, Indonesia 🇮🇩 <br>
-  🎓 Universitas Islam Kalimantan MAB
+  🎓 Universitas Islam Negeri Antasari Banjarmasin
 </p>
 
 <p align="center">
