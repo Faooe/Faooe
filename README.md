@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=3DDC84&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Mobile+(Android)+%26+Web+Developer;Building+IoT+%26+Smart+City+Solutions;Founder+of+Disin+(Creative+Design)" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=3DDC84&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Mobile+(Android)+%26+Web+Developer;Building+IoT+%26+Smart+City+Solutions;Founder+of+Desin+(Creative+Design)" />
 </p>
 
 <p align="center">
