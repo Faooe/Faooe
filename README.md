@@ -44,9 +44,8 @@ My expertise spans across the full development stack:
 ---
 
 ## 🛠️ Tech Stack & Tools
-
 ### 🚀 Programming Languages
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Kotlin-%230175C2.svg?style=flat-square&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-%230175C2.svg?style=flat-square&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-%230175C2?style=flat-square&logo=python&logoColor=white" />
@@ -57,7 +56,7 @@ My expertise spans across the full development stack:
 </p>
 
 ### 💻 Frameworks & Libraries
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Android-%230175C2.svg?style=flat-square&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/Jetpack_Compose-%230175C2.svg?style=flat-square&logo=jetpackcompose&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-%230175C2.svg?style=flat-square&logo=laravel&logoColor=white" />
@@ -65,7 +64,7 @@ My expertise spans across the full development stack:
 </p>
 
 ### ☁️ Backend & Tools
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Firebase-%230175C2.svg?style=flat-square&logo=firebase&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-%230175C2.svg?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-%230175C2.svg?style=flat-square&logo=git&logoColor=white" />
