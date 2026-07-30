@@ -33,7 +33,7 @@
 
 ## 👨‍💻 About Me <img align="right" alt="Spider-Man" width="160" src="https://media1.tenor.com/m/6uE_V3yG57AAAAAC/spider-man-no-way-home-marvel-studios.gif">
 
-I am an **Information Technology student** with a versatile skill set in **Software Engineering**.
+I am an **Information Technology student** with a versatile skill set in **Software Engineering**.  
 I don't just build apps; I build **solutions**. whether it's a mobile application, a responsive website, or an IoT system.
 
 My expertise spans across the full development stack:
@@ -75,7 +75,7 @@ My expertise spans across the full development stack:
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0175C2&height=120&section=footer"/>
-</p>>
+</p>
 
 <p align="center">
   <i>✨ Let's connect and build impactful digital solutions together ✨</i>
