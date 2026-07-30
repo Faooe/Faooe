@@ -1,4 +1,6 @@
 <img title="Faooe" src="https://komarev.com/ghpvc/?username=Faooe&text_color=FF00FF&label=Views&color=000000&text_color=00FF00&bg_color=000000&style=flat">
+<img align="right" alt="Coding" width="200" src="https://media.tenor.com/tFXgZr2w4JkAAAAj/marija-musedash.gif">
+
 <h1 align="center">
   Hi there, I'm Husin Nafarin Ramadhani! 👋
 </h1>
