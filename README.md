@@ -31,7 +31,7 @@
 
 ---
 
-## 👨‍💻 About Me <img align="right" alt="Spider-Man" width="160" src="https://media1.tenor.com/m/6uE_V3yG57AAAAAC/spider-man-no-way-home-marvel-studios.gif">
+## 👨‍💻 About Me <img align="right" alt="Spider-Man" width="150" src="https://c.tenor.com/tFXgZr2w4JkAAAAC/spider-man.gif">
 
 I am an **Information Technology student** with a versatile skill set in **Software Engineering**.  
 I don't just build apps; I build **solutions**. whether it's a mobile application, a responsive website, or an IoT system.
